@@ -9,13 +9,3 @@ I started my freshman year at SDState in 2015, I was taught C++ and C in the fir
 
 <b>Simple Hello World program in go:</b>
 <br>
-
-```go`
-package main
-
-import "fmt"
-
-func main() {
-	fmt.Println("Hello, 世界")
-}
-```
