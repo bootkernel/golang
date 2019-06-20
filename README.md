@@ -27,6 +27,14 @@ Keep in mind, the green highlighted hello in the hello directory is the binary t
 
 <code>./hello</code> <br>
 
+I personally prefer this way. But this can be done in a more pythonic way using the following command,
+
+<code> go run hello.go </code>
+
+The above command does the same thing. It compiles and then executes the binary. This way is more similar to Python since you can do it one line like,
+
+<code> python hello.py </code>
+
 <b>Simple Hello World program in go:</b>
 <br>
 
