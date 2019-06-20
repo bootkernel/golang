@@ -10,6 +10,15 @@ I started my freshman year at SDState in 2015, I was taught C++ and C in the fir
 <b>Setup Process</b> <br>
 Setting up golang is slightly different than C++ and Python. For C++, all you need is a compiler like clang or gcc. For Python you just need to install Python in your machine. Since, golang is a compiled language, the process of compiling go programs is the same as C++. For go, a workspace directory needs to be created. For the setup process, please refer to the official getting started documentation: https://golang.org/doc/install
 
+<b>Compile</b> <br>
+To compile a hello.go file,
+
+<code>go build hello.go</code> <br>
+
+This will generate a binary and just like C or C++ this can be run using,<br>
+
+<code>./hello</code> <br>
+
 <b>Simple Hello World program in go:</b>
 <br>
 
