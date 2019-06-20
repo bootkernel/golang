@@ -10,15 +10,12 @@ I started my freshman year at SDState in 2015, I was taught C++ and C in the fir
 <b>Simple Hello World program in go:</b>
 <br>
 
-<code>
+```go`
 package main
-<br>
-import "fmt"
-<br>
-func main() {
-<br>
-  fmt.Println("Hello")
-<br>
-}
-</code>
 
+import "fmt"
+
+func main() {
+	fmt.Println("Hello, 世界")
+}
+```
