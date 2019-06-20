@@ -22,3 +22,23 @@ func main() {
 }
 
 ```
+<b>Analysis of the above program,</b>
+<br>
+In Python, I could write this in a single line,<br>
+```python
+print("Hello")
+```
+<br>
+In C++ this would be,
+```C++
+#include <iostream>
+
+using namespace std;
+
+int main() {
+
+  cout << "Hello" << endl;
+
+return 0;
+}
+```
