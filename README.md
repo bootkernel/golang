@@ -1,5 +1,5 @@
 # golang
-I'm new to go, I've heard a lot about it, I'll document the process and keep putting small programs written in go as I progress. I'm planning to contribute to Kubernetes, since, Kubernetes is written in go, I've to learn go.
+I'm new to go, I've heard a lot about it, I'll document the process and keep putting small programs written in go as I progress. I'm planning to contribute to Kubernetes, since, Kubernetes is written in go, I've to learn go. I'll also put up a tutorial in The Programming Foundation once I get a job.
 
 <b> Features: </b> Statically typed, compiled language
 
