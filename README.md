@@ -1,5 +1,5 @@
 # golang
-I'm new to go, I've heard a lot about it, I'll keep putting small programs written in go as I progress.
+I'm new to go, I've heard a lot about it, I'll document the process and keep putting small programs written in go as I progress.
 
 <b> Features: </b> Statically typed, compiled language
 
