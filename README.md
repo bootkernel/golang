@@ -30,7 +30,7 @@ print("Hello")
 ```
 <br>
 In C++ this would be,
-```C++
+```cpp
 #include <iostream>
 
 using namespace std;
