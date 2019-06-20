@@ -12,13 +12,13 @@ I started my freshman year at SDState in 2015, I was taught C++ and C in the fir
 
 <code>
 package main
-  
+<br>
 import "fmt"
-  
+<br>
 func main() {
-  
+<br>
   fmt.Println("Hello")
-  
+<br>
 }
 </code>
 
