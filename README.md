@@ -1,7 +1,7 @@
 # golang-projects
 I'm new to go, I've heard a lot about it, I'll keep putting small programs written in go as I progress.
 
-Features: Statically typed, compiled language.
+<b> Features: Statically typed, compiled language </b>
 
 <b> My understanding of Go - A little background on my academic journey</b>
 <br>
