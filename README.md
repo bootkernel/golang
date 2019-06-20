@@ -14,7 +14,7 @@ Setting up golang is slightly different than C++ and Python. For C++, all you ne
 
 To setup the workspace directory, you need to have the name of the workspace and then inside it should be a directory named src in which the .go program will reside. The structure looks like this, <br>
 
-![tree]https://github.com/bootkernel/golang/blob/master/Screen%20Shot%202019-06-19%20at%208.17.37%20PM.png
+![tree](https://github.com/bootkernel/golang/blob/master/Screen%20Shot%202019-06-19%20at%208.17.37%20PM.png)
 
 . For a well documented setup process, please refer to the official getting started documentation: https://golang.org/doc/install
 
