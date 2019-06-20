@@ -16,14 +16,14 @@ To setup the workspace directory, you need to have the name of the workspace and
 
 ![tree](https://github.com/bootkernel/golang/blob/master/Screen%20Shot%202019-06-19%20at%208.17.37%20PM.png)
 
-. For a well documented setup process, please refer to the official getting started documentation: https://golang.org/doc/install
+For a well documented setup process, please refer to the official getting started documentation: https://golang.org/doc/install
 
 <b>Compile</b> <br>
-To compile a hello.go file,
+To compile a hello.go file, run the below command from the directory in which hello.go is located,
 
 <code>go build hello.go</code> <br>
 
-This will generate a binary and just like C or C++ this can be run using,<br>
+Keep in mind, the green highlighted hello in the hello directory is the binary that was compiled using this above command. Just like C or C++ this can be run using,<br>
 
 <code>./hello</code> <br>
 
