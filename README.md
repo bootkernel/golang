@@ -28,7 +28,6 @@ In Python, I could write this in a single line,<br>
 ```python
 print("Hello")
 ```
-<br>
 In C++ this would be,
 <br>
 
