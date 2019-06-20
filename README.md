@@ -31,7 +31,7 @@ I personally prefer this way. But this can be done in a more pythonic way using 
 
 <code> go run hello.go </code>
 
-The above command does the same thing. It compiles and then executes the binary. This way is more similar to Python since you can do it one line like,
+The above command does the same thing. It compiles and then executes the binary. This way is more similar to Python since you can do it in one line like,
 
 <code> python hello.py </code>
 
